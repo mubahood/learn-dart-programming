@@ -1,6 +1,6 @@
 int main() {
   for (int i = 0; i <= 100; i++) {
-    print("$i. Muhozi"); //printing inside the loop
+    print("$i. Muhozi");
   }
   return 0;
 }
